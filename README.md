@@ -6,7 +6,7 @@ Miguel Ovalle
 ## Índice
 
 - [Ficha de la empresa](https://github.com/MiguelOvLo/Proyecto1_Digitalizacion/blob/main/Ficha%20de%20la%20empresa.md)
-- [Listado de tecnologías]
+- [Listado de tecnologías](https://github.com/MiguelOvLo/Proyecto1_Digitalizacion/blob/main/OT%20e%20IT.md)
 - [Diagrama]
 - [Propuesta de transformación digital]
 - [Conclusión]

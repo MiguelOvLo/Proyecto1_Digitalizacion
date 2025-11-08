@@ -1,5 +1,6 @@
 # Reflexión
 
+```
 El sector náutico a día de hoy no es un sector muy explotado a nivel de inteligencia artificial. Es un sector que se mantiene más inclinado a la forma de gestión y trabajo tradicional debido a que se lleva trabajando de la misma forma desde hace décadas, enfocando su desarrollo casi únicamente en el ámbito de los productos.
 
 Creo que podría ser muy beneficioso para la empresa el implementar varias de las herramientas mencionadas a lo largo de este pequeño proyecto para poder diferenciarse de los demás competidores, por lo menos a nivel nacional.

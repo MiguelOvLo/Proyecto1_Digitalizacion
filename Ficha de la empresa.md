@@ -3,7 +3,7 @@
 ```
 - Sector: Náutica/chandlery retail (venta de accesiorios y repuestos náuticos).
 
-- Ubicación: Portals Nous, Puerto Portals Nous, Pol.    Industrial Son Bugadelles.
+- Ubicación: Portals Nous, Puerto Portals Nous, Pol. Industrial Son Bugadelles.
 
 - Tamaño: 15 empleados.
 
@@ -12,3 +12,4 @@
 - Clientes: Mecánicos, capitanes, armadores.
 
 - Canales: Tienda física, whats-app, correo electrónico.
+

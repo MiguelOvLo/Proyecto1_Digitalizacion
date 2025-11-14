@@ -1,7 +1,7 @@
 # Proyecto1_Digitalizacion
 ***
-Miguel Ovalle
-1º Desarrollo de Aplicaciones Web
+Miguel Ovalle  
+1º Desarrollo de Aplicaciones Web  
 IES Son Ferrer curso 2025-2026
 ***
 

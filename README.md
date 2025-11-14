@@ -1,6 +1,8 @@
 # Proyecto1_Digitalizacion
 ***
 Miguel Ovalle
+1º Desarrollo de Aplicaciones Web
+IES Son Ferrer curso 2025-2026
 ***
 
 Este proyecto plantea una propuesta de transformación digital para MultiMarine, empresa del sector náutico (chandlery retail) ubicada en Palma de Mallorca.

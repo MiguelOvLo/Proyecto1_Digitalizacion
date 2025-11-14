@@ -7,7 +7,7 @@ Este proyecto plantea una propuesta de transformación digital para MultiMarine,
 
 Mi objetivo es mostrar las ventajas potenciales después de integrar la digitalización en planta y en el negocio utilizando inteligencia artificial, mejorando la eficiencia, toma de decisiones y la calidad del servicio al cliente final.
 
-A lo largo del proyecto podremos observar:
+Estos son los diferentes puntos que desarrollaré a lo largo del proyecto:
 
 
 - [Diferencias entre planta y negocio](https://github.com/MiguelOvLo/Proyecto1_Digitalizacion/blob/main/Diferencia%20entre%20planta%20y%20negocio.md)

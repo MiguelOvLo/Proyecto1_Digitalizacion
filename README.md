@@ -5,7 +5,7 @@ Miguel Ovalle
 
 Este proyecto plantea una propuesta de transformación digital para MultiMarine, empresa del sector náutico (chandlery retail) ubicada en Palma de Mallorca.
 
-Mi objetivo es mostrar las ventajas potenciales después de integrar la digitalización en planta y en el negocio utilizando Inteligencia Artificial, mejorando la eficiencia, toma de decisiones y la calidad del servicio al cliente final.
+Mi objetivo es mostrar las ventajas potenciales después de integrar la digitalización en planta y en el negocio utilizando inteligencia artificial, mejorando la eficiencia, toma de decisiones y la calidad del servicio al cliente final.
 
 A lo largo del proyecto podremos observar:
 
